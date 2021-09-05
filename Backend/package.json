@@ -1,0 +1,30 @@
+{
+  "name": "wtr",
+  "version": "1.0.0",
+  "description": "Website to get the upcoming release dates for video games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lopez42512/WTR.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "html",
+    "css",
+    "express"
+  ],
+  "author": "Ismael Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lopez42512/WTR/issues"
+  },
+  "homepage": "https://github.com/Lopez42512/WTR#readme",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "express": "^4.17.1"
+  }
+}
